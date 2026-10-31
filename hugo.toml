@@ -1,5 +1,6 @@
 baseURL = "https://naraku86.github.io/"
-languageCode = "es-mx"
+locale = "es-MX"
+defaultContentLanguage = "es"
 title = "Edgar Vigueras"
 theme = "PaperMod"
 
@@ -18,7 +19,7 @@ ShowBreadCrumbs = false
 ShowCodeCopyButtons = true
 ShowWordCount = false
 
-description = "Senior Software Engineer especializado en Sistemas Financieros, Trading Electrónico, Market Data y Arquitectura de Software."
+description = "Edgar Vigueras: Java, sistemas financieros y arquitectura backend. Proyectos personales, IA aplicada, Linux, automatización, diseño y cosas que voy aprendiendo."
 
 [params.profileMode]
 enabled = true
@@ -26,13 +27,13 @@ enabled = true
 title = "Edgar Vigueras"
 
 subtitle = """
-Financial Systems • Market Data • Trading Technology • Software Architecture
+Java • Sistemas financieros • Arquitectura backend
 
-Ingeniero de Software Senior con más de 15 años de experiencia en el diseño e integración de sistemas financieros de misión crítica.
+Soy ingeniero de software con más de 15 años desarrollando sistemas Java para entornos financieros de misión crítica: trading electrónico, market data e integración de sistemas.
 
-Especializado en trading electrónico, market data, conectividad financiera, mensajería empresarial y arquitecturas de alta disponibilidad.
+Coordino proyectos y equipos, y sigo disfrutando programar. Me interesan las soluciones simples, el desarrollo seguro y la automatización; actualmente exploro cómo aplicar agentes de IA al trabajo de ingeniería con criterio técnico y supervisión humana.
 
-Apasionado por la tecnología, la innovación y la vida en el campo.
+También construyo proyectos personales: software para una papelería familiar, experimentos con Linux e IA y el diseño de una jardinera con agua. Disfruto Dwarf Fortress, la ciencia ficción, la vida en el campo y aprender cómo funcionan las cosas.
 """
 
 imageUrl = "img/profile.jpg"
